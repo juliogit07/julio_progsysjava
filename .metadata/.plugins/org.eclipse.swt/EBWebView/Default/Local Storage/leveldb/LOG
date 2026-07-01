@@ -1,2 +1,3 @@
-2026/06/29-08:35:10.852 4710 Creating DB D:\Users\Aluno\eclipse-workspace\juliodevsys2026\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
-2026/06/29-08:35:11.037 4710 Reusing MANIFEST D:\Users\Aluno\eclipse-workspace\juliodevsys2026\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/01-09:11:30.593 4044 Reusing MANIFEST D:\Users\Aluno\eclipse-workspace\juliodevsys2026\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/01-09:11:30.607 4044 Recovering log #3
+2026/07/01-09:11:30.611 4044 Reusing old log D:\Users\Aluno\eclipse-workspace\juliodevsys2026\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
