@@ -24,7 +24,7 @@ public class Metodoconstrutor2 {
 		
 	}
 	public void setPreco(double preco) {
-		if(preco>0) {
+		if(preco<0) {
 			
 			this.preco = preco;
 		} else {
@@ -32,7 +32,7 @@ public class Metodoconstrutor2 {
 		}
 	}
 	public void setEstoque(int estoque) {
-		if(estoque>0) {
+		if(estoque<0) {
 			
 			this.estoque = estoque;
 		} else {
